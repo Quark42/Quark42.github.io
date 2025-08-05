@@ -1,14 +1,11 @@
 # Hello there!
 I'm Quark a developer.
 
-
-
-[![wiggly wobbly](https://avatars.githubusercontent.com/u/160365698?v=4)](openGame())
 <html>
 <head>
 </head>
 <body>
-<button onclick="openGame()">Open Gam</button>
+<button onclick="openGame()">Open Game</button>
 <script>
 function openGame() {
 var win = window.open()
@@ -23,3 +20,5 @@ win.document.body.appendChild(iframe)
 </script>
 </body>
 </html>
+
+<img src="https://avatars.githubusercontent.com/u/160365698?v=4" alt="unfinished bingo card" onclick="openGwme()" />
