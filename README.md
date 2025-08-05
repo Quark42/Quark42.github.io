@@ -21,4 +21,4 @@ win.document.body.appendChild(iframe)
 </body>
 </html>
 
-<img src="https://avatars.githubusercontent.com/u/160365698?v=4" alt="unfinished bingo card" onclick="openGwme()" />
+<img src="https://avatars.githubusercontent.com/u/160365698?v=4" alt="unfinished bingo card" onclick="openGame()" />
