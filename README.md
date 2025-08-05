@@ -3,7 +3,7 @@ I'm Quark a developer.
 
 
 
-[![wiggly wobbly](https://avatars.githubusercontent.com/u/160365698?v=4)](https://github.com/Quark42)
+[![wiggly wobbly](https://avatars.githubusercontent.com/u/160365698?v=4)](openGame())
 <html>
 <head>
 </head>
@@ -12,7 +12,7 @@ I'm Quark a developer.
 <script>
 function openGame() {
 var win = window.open()
-var url = "https://example.com"
+var url = "https://youtube.com"
 var iframe = win.document.createElement('iframe')
 iframe.style.width = "100%";
 iframe.style.height = "100%";
