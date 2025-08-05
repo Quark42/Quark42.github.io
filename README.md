@@ -1,5 +1,13 @@
+<!DOCTYPE html>
 # Hello there!
-I'm Quark a developer that creates
+I'm Quark a developer that creates stuff.
+
+
+<html>
+<head>
+<title>Quark's Page</title>
+</head>
+<body>
 
 <html>
 <head>
@@ -9,7 +17,7 @@ I'm Quark a developer that creates
 <script>
 function openGame() {
 var win = window.open()
-var url = "https://youtube.com"
+var url = "https://clever.com"
 var iframe = win.document.createElement('iframe')
 iframe.style.width = "100%";
 iframe.style.height = "100%";
