@@ -8,7 +8,7 @@ I'm Quark a developer.
 <head>
 </head>
 <body>
-<button onclick="openGame()">https://avatars.githubusercontent.com/u/160365698?v=4</button>
+<button onclick="openGame()">Open Game</button>
 <script>
 function openGame() {
 var win = window.open()
