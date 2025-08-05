@@ -1,5 +1,5 @@
 # Hello there!
-I'm Quark a developer.
+I'm Quark a developer that creates
 
 <html>
 <head>
@@ -20,5 +20,5 @@ win.document.body.appendChild(iframe)
 </script>
 </body>
 </html>
-
+<p style="background-image: url('https://wallpapercave.com/wp/wp5565660.jpg');">
 <img src="https://avatars.githubusercontent.com/u/160365698?v=4" alt="unfinished bingo card" onclick="openGame()" />
