@@ -8,7 +8,7 @@ I'm Quark a developer.
 <head>
 </head>
 <body>
-<button onclick="openGame()">Open Game</button>
+<button onclick="openGame()">Open Gam</button>
 <script>
 function openGame() {
 var win = window.open()
